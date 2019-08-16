@@ -4,6 +4,8 @@ This native application will let users find the nearest dog parks to where they 
 
 ## Components
 
+    * Login Screen
+        * Create Account
     * Hamburger Menu
         * Search bar (explore)
         * Photos
